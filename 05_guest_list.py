@@ -8,3 +8,5 @@ while True:
 
     guests.append(guest_name)
     print(f'{guest_name} added to the guest list!')
+
+print(guests)
